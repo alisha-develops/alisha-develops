@@ -20,6 +20,6 @@ i’m super active on hackclub!!
 
 ...hit me up on slack **@Alisha**
 
-## Hackatime Stats
+## hackatime stats
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=24878&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark)
 
